@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React, TypeScript, Gatsby**
 
-- 👨‍💻 All of my projects are available at [jairpss.github.io]
+- 👨‍💻 All of my projects are available at (jairpss.github.io)
 
 - 📫 How to reach me **jairpartida1@gmail.com**
 
