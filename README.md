@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jair Partida</h1>
-<h3 align="center">A frontend developer from Mexico</h3>
+<h3 align="center">Frontend developer Jr. from Mexico</h3>
 
 - 🌱 I’m currently learning **React and TypeScript**
 
-- 👨‍💻 All of my projects are available at (jairpss.github.io)
+- 👨‍💻 All of my projects are available at [https://jairpss.github.io/](jairpss.github.io)
 
 - 📫 How to reach me **jairpartida1@gmail.com**
 
