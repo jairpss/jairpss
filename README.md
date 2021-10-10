@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jair Partida</h1>
-<h3 align="center">Frontend developer Jr. from Mexico</h3>
+<h3 align="center">Frontend developer from Mexico</h3>
 
 - 🌱 I’m currently learning **React and TypeScript**
 
