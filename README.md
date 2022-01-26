@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **jairpartida1@gmail.com**
 
-- 📄 Here is my resume [https://drive.google.com/file/d/1dgXR3UGTB-bMTFGT1RgOiQZCctHDWG2g/view?usp=sharing](https://drive.google.com/file/d/1dgXR3UGTB-bMTFGT1RgOiQZCctHDWG2g/view?usp=sharing)
+- 📄 Here is my resume [https://drive.google.com/file/d/1RonWJyeK-wtbzSrq885vHxZ7fItCteY_/view?usp=sharing](https://drive.google.com/file/d/1RonWJyeK-wtbzSrq885vHxZ7fItCteY_/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
